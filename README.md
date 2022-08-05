@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ```python
  class AboutMe:
  	Name = 'Nurul Saidi'
-		Experiences = 'Revenue Optimization Analyst in airline ✈️ & logistic industries 🚚'
+		Experiences = 'Revenue Optimization Analyst in airline ✈️ & supply chain industries 🚚'
 		Education = [
 				'Msc: Operations Research with Data Science',
 				'BSc: Actuarial Science and Risk Management',
@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 	
 	def Interest():
 		Operations_Research()
+		Revenue_Optimization()
+		Demand_and_capacity_planning()
+		Pricing_analytics()
+		Process_simulation_and_optimisation()
+		Data_Science()		
  ```
   
 </td><td valign="top" width="55%">
