@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ```python
  class AboutMe:
  	Name = 'Nurul Saidi'
-		Experiences = 'Revenue Optimization Analyst in airline :airplane: and logistic industries 🚚'
+		Experiences = 'Revenue Optimization Analyst in airline ✈️ & logistic industries 🚚'
 		Education = [
 				'Msc: Operations Research with Data Science',
 				'BSc: Actuarial Science and Risk Management',
