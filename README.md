@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 		Experiences = 'Revenue Optimization Analyst in airline ✈️ & supply chain industries 🚚'
 		Education = [
 				'Msc: Operations Research with Data Science',
-				'BSc: Actuarial Science and Risk Management',
+				'BSc: Actuarial Science and Risk Management'
 			]
 	
 	def getCity():
