@@ -17,4 +17,22 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="33%">
   
-### :woman_pilot: About me
+### 👩‍💻 About me
+
+```python
+ class AboutMe:
+ 	Name = 'Nurul Saidi'
+		Experiences = 'Revenue Optimization Analyst in airline :airplane: and logistic industries 🚚'
+		Education = [
+				'Msc: Operations Research with Data Science',
+				'BSc: Actuarial Science and Risk Management',
+			]
+	
+	def getCity():
+		return UnitedKingdom_London()
+	
+	def Interest():
+		Operations_Research()
+ ```
+  
+</td><td valign="top" width="55%">
