@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 	
 ### 🖥️ Tech Stack 
 ####  ⌨️ Languages
+####  ⌨️ Database Management
+####  ⌨️ Data Visualization
 
 #### 📊 Stats
 
