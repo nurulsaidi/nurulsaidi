@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 
 ### 👩‍💼 [My Resume](https://drive.google.com/file/d/1GtmZUMImNFNLU7EHzZCvb8OR6TdCUEAf/view?usp=sharing)
 
-	
-
-
-
-  
 </td><td valign="top" width="55%">
+	
+### 🖥️ Tech Stack 
