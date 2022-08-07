@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  ```
 	
 ### 📧 Contact me
-Email | [Linkedin](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi) |
+Email | [![Linkedin Badge](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi)]|
 
 
 
