@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulsaidi&langs_count=8&layout=compact&hide=jupyter%20notebook)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulsaidi&langs_count=8&layout=compact&theme=buefy&hide=jupyter%20notebook)](#)
 
 </td></tr></table>
