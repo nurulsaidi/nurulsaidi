@@ -49,3 +49,9 @@ Here are some ideas to get you started:
 </td><td valign="top" width="55%">
 	
 ### 🖥️ Tech Stack 
+
+## 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulsaidi&langs_count=8&layout=compact&hide=jupyter%20notebook)](#)
+
+</td></tr></table>
