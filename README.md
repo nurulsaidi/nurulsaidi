@@ -50,11 +50,13 @@ Here are some ideas to get you started:
 	
 ### 🖥️ Tech Stack 
 #### ⌨️ Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 #### ⌨️ Data Science
 #### 💾 Database Management
 #### 📈 Data Visualization
-#### IDE / Editor
-#### Version control
+#### ☁️ Cloud Platforms
+#### 🖱️ IDE / Editor
+#### 📁	Version control
 
 #### 📊 Stats
 
