@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 </td><td valign="top" width="70%">
 	
 ### 🖥️ Tech Stack 
+## ⌨️ Languages
 
 ## 📊 Stats
 
