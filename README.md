@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 	
 ### 📧 You can reach me at ↩️
 [![Gmail Badge](https://img.shields.io/badge/-nurul.nsaidi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurul.nsaidi@gmail.com)](mailto:nurul.nsaidi@gmail.com) 
-| ![Linkedin Badge](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi)|
+![Linkedin Badge](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi)
 
 
 
