@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
   
 ### 👩‍💻 About me
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### 👩‍💼 [My Resume](https://drive.google.com/file/d/1GtmZUMImNFNLU7EHzZCvb8OR6TdCUEAf/view?usp=sharing)
 
-</td><td valign="top" width="55%">
+</td><td valign="top" width="50%">
 	
 ### 🖥️ Tech Stack 
 
