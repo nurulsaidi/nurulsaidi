@@ -33,11 +33,17 @@ Here are some ideas to get you started:
 	
 	def Interest():
 		Operations_Research()
-		Revenue_Optimization()
+		Revenue_Management()
 		Demand_and_capacity_planning()
 		Pricing_analytics()
 		Process_simulation_and_optimisation()
 		Data_Science()		
  ```
+	
+### 📧 Contact me
+Email | [Linkedin](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi) |
+
+
+
   
 </td><td valign="top" width="55%">
