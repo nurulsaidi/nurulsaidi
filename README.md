@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 #### 📈 Data Visualization
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/tableau.svg" width="28px" height="28px">
-[![Tableau](https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/tableau.svg)([link to your URL](https://public.tableau.com/app/profile/nurulsaidi))
+[![Tableau](https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/tableau.svg&link=https://public.tableau.com/app/profile/nurulsaidi)
 #### ☁️ Cloud Platforms
 #### 🖱️ IDE / Editor
 #### 📁	Version control
