@@ -69,6 +69,6 @@ You can learn more details about my work experiences [here](https://drive.google
 
 #### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulsaidi&langs_count=8&layout=compact&theme=buefy)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulsaidi&langs_count=8&layout=compact&theme=buefy&hide=jupyter%20notebook)](#)
 
 </td></tr></table>
