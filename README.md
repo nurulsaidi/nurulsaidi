@@ -40,10 +40,11 @@ class AboutMe:
 	Data_Science()		
  ```
 	
-### 📧 You can reach me at: 
-[![Gmail Badge](https://img.shields.io/badge/-nurul.nsaidi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurul.nsaidi@gmail.com)](mailto:nurul.nsaidi@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi)](https://www.linkedin.com/in/nurulsaidi/)
-### 👩‍💼 [My Resume](https://drive.google.com/file/d/1GtmZUMImNFNLU7EHzZCvb8OR6TdCUEAf/view?usp=sharing)
+### 📧 Contact: 
+For any opportunities, feel free to reach me at [![Gmail Badge](https://img.shields.io/badge/-nurul.nsaidi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurul.nsaidi@gmail.com)](mailto:nurul.nsaidi@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi)](https://www.linkedin.com/in/nurulsaidi/)
+
+### 👩‍💼 [My Resume]
+You can learn more details about my work experiences here, [My Resume](https://drive.google.com/file/d/1GtmZUMImNFNLU7EHzZCvb8OR6TdCUEAf/view?usp=sharing)
 
 </td><td valign="top" width="70%">
 	
