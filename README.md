@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 	
 ### 📧 You can reach me at: 
 [![Gmail Badge](https://img.shields.io/badge/-nurul.nsaidi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurul.nsaidi@gmail.com)](mailto:nurul.nsaidi@gmail.com) 
-![Linkedin Badge](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi)
-
+[![Linkedin Badge](https://img.shields.io/badge/-nurulsaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulsaidi)]
+(https://www.linkedin.com/in/nurulsaidi/)
 ### 👩‍💼 [My Resume](https://drive.google.com/file/d/1GtmZUMImNFNLU7EHzZCvb8OR6TdCUEAf/view?usp=sharing)
 
 </td><td valign="top" width="70%">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 #### 💾 Database Management
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 #### 📈 Data Visualization
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/nurulsaidi) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/nurulsaidi)](https://public.tableau.com/app/profile/nurulsaidi) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 	
 #### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
