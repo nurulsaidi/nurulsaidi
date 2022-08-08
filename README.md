@@ -19,25 +19,25 @@ Here are some ideas to get you started:
 ### 👩‍💻 About me
 
 ```python
- class AboutMe:
- 	Name = 'Nurul Saidi'
-		Experiences = 'Revenue Optimization Analyst in airline ✈️ 
-			       & supply chain industries 🚚'
-		Education = [
-				'Msc: Operations Research with Data Science',
-				'BSc: Actuarial Science and Risk Management'
-			]
-	
-	def getCity():
-		return UnitedKingdom_London()
-	
-	def Interest():
-		Operations_Research()
-		Revenue_Management()
-		Demand_and_capacity_planning()
-		Pricing_analytics()
-		Process_simulation_and_optimisation()
-		Data_Science()		
+class AboutMe:
+   Name = 'Nurul Saidi'
+   Experiences = 'Revenue Optimization Analyst in airline ✈️ 
+	       & supply chain industries 🚚'
+   Education = [
+		'Msc: Operations Research with Data Science',
+		'BSc: Actuarial Science and Risk Management'
+	]
+
+   def getCity():
+	return UnitedKingdom_London()
+
+   def Interest():
+	Operations_Research()
+	Revenue_Management()
+	Demand_and_capacity_planning()
+	Pricing_analytics()
+	Process_simulation_and_optimisation()
+	Data_Science()		
  ```
 	
 ### 📧 You can reach me at: 
