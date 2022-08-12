@@ -46,6 +46,10 @@ For any opportunities, feel free to reach me at [![Gmail Badge](https://img.shie
 ### 👩‍💼 My Resume
 You can learn more details about my work experiences [here](https://drive.google.com/file/d/1GtmZUMImNFNLU7EHzZCvb8OR6TdCUEAf/view?usp=sharing)
 
+### ⏳ My Current Activities
+Currently learning C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) and JavaScript 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 </td><td valign="top" width="70%">
 	
 ### 🖥️ Tech Stack 
