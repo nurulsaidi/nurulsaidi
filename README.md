@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ```python
 class AboutMe:
    Name = 'Nurul Saidi'
-   Experiences = 'Revenue Optimization Analyst in airline ✈️ 
+   Experiences = 'Network Revenue Optimization Analyst in airline ✈️ 
 	       & supply chain industries 🚚'
    Education = [
 		'Msc: Operations Research with Data Science',
