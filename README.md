@@ -32,10 +32,11 @@ class AboutMe:
 	return UnitedKingdom_London()
 
    def Interest():
-	Operations_Research()
-	Revenue_Management()
-	Demand_and_capacity_planning()
-	Pricing_analytics()
+	Operations_research()
+	Revenue_management()
+	Demand_and_inventory_management()
+	Capacity_planning()
+	Dynamic_pricing_optimisation()
 	Process_simulation_and_optimisation()
 	Data_Science()		
  ```
